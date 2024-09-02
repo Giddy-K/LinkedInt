@@ -20,7 +20,7 @@ Feel free to contribute and add your socials, github profile or name here.
 
 # Installation
 ```
-git clone 
+git clone https://github.com/Giddy-K/LinkedInt.git
 cd LinkedInt
 pip install -r requirements.txt
 ```
