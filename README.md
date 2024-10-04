@@ -17,7 +17,7 @@ Gideon Kipamet - https://github.com/Giddy-K
 
 Contributors:
 
-Feel free to contribute and add your socials, github profile or name here.
+Feel free to contribute and add your socials, github profile or name here...
 
 # Installation
 ```
